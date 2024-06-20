@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="imgs">
+    <file>aplicativo-web.png</file>
+    <file>th.png</file>
+    <file>user-128.jpg</file>
+  </qresource>
+</RCC>

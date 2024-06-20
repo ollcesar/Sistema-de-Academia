@@ -1,0 +1,45 @@
+	O trabalho consiste em um sistema de gerenciamento de uma academia. Pretendemos fazer um sistema que será o foco o funcionário da academia, realizando os cadastros, consultas, relatórios e tendo controle das finanças, por exemplo.
+Desta forma o funcionário da academia terá o seu tempo otimizado, encontrando todos os recursos em um só programa.
+
+
+--Estudar sobre utilizar arquivos no python.
+--Estudar formas de utilizar a interface tkinter.
+--Tema: Academia
+   
+    Entrada:
+-Cadastro de funcionários
+-Cadastro de clientes
+-Cadastro de equipamentos
+-Cadastro de horários**
+-Entrada de pagamentos
+
+  Processamento:
+-Pagamento funcionário
+-Pagamento clientes
+-Compras equipamentos
+-Gestão de frequência
+-Fluxo de pagamentos
+
+
+  Saída:
+-Emissão de nota
+-Holerite
+-Fechamento de caixa
+
+
+**Tentar trazer no python o PDF referente alguns itens. Ex: Holerite
+
+	ITENS REFERENTE A PROGRAMAÇÃO:
+-Tela login
+-Tela cadastro
+-Tela consulta
+-Tela alterar
+
+	ITENS REFERENTE A INTERFACE(caso tenha tempo*):
+-Imagens
+-PDF
+-Gifs
+-Cores
+-Alinhamento de itens(botoes, lable, caixa de texto, caixa de seleção, etc...)
+
+*****Inserir, consultar, atualizar ou excluir/suspender documentos****
